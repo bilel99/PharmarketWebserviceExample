@@ -9,7 +9,7 @@
 
 class DeviseController extends Controller {
 
-	/**
+	/**BILEL
 	 * Display a listing of the resource.
 	 *
 	 * @return Response
